@@ -23,8 +23,6 @@
   <img align="left" alt="HTML5" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg"/>
   <img align="left" alt="CSS3" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"/>
   <img align="left" alt="JavaScript" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"/>
-  <img align="left" alt="MarkDown" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg"/>
-  <img align="left" alt="Visual Studio" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"/>
   <img align="left" alt="Visual Studio Code" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/>
   <img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
   <img align="left" alt="Linux" width="40px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"/>
